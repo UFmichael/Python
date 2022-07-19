@@ -1,5 +1,5 @@
-# Python program to count number of a given score could be reached 
-# in a game where a move can earn 1, 5, or 10 points.
+# Python program to count number of ways a given score could be reached 
+# assuming the score is from a game where a move can earn 1, 5, or 10 points.
 # Last Modified: 7/19/2022
 
 print("This program will tell you the number of ways the score could have been reached.")
